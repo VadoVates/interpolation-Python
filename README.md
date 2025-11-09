@@ -1,2 +1,3 @@
 # interpolation-Python
-This little program in Python takes coordinates of points from a coordinate system and determines the formula of an interpolating function of any degree. Also with matplotlib library it draws that funcion.
+This Python script takes coordinates of points from a coordinate system and determines the formula of an interpolating function of any degree.
+Script generates interactive drawing of the function with matplotlib.
